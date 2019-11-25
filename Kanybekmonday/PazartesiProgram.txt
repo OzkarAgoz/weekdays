@@ -1,0 +1,16 @@
+Kanybek hocam
+
+Yapacağımız plan
+
+RestHousCopy02.ipynb  bize restmap.html ve index.html veriyor. Ama biz bunu Leaflet javascript yapacağız. 
+
+
+LEAFLET CLUSTER LINK:
+
+https://asmaloney.com/2015/06/code/clustering-markers-on-leaflet-maps/
+
+Bu linkte leaflet cluster ornegi var sadece data değişecektir 
+Burada DATA dosyası  Markers.js
+Bizim DATA  restaurants.csv
+
+Tum gereken dosyalar gönderiyorum 
